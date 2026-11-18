@@ -4,7 +4,7 @@
 📍 Córdoba, Argentina · 🎓 Advanced Systems Engineering student @ UTN FRC
 
 - 🚀 Founder @ [Fortica](https://fortica.com.ar/) — custom software & consulting
-- 💊 Lead developer of **DispensAR**, a medication dispensing platform used in **100+ public health centers**
+- 💊 Lead developer & functional analyst of **DispensAR**, a medication dispensing platform used in **100+ public health centers**
 - ⚙️ REST APIs with **FastAPI**, data layers on **SQL Server**, and CI/CD pipelines with **GitHub Actions**
 - 🔗 Integrations with RENAPER, Electronic Health Records (HCE) and the WHO cardiovascular risk API
 - 🧠 Self-taught, curious and critical thinker
